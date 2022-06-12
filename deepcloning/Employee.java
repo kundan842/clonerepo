@@ -2,6 +2,8 @@ package clonnig.deepcloning;
 
 public class Employee  implements Cloneable
 {
+
+         // adding comment to it
 	
 	       private String name;
 	       private int age;
