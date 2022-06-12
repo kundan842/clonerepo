@@ -2,7 +2,7 @@ package clonnig.deepcloning;
 
 public class Address  implements  Cloneable
 {
-	// changes in b1 branch of addresss file on git hub
+	// changes in b1 branch of addresss file on git hub remote repository
 	  private String city;
 	  private String pincode;
 	  
